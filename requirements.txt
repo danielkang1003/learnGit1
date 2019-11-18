@@ -1,0 +1,4 @@
+numpy
+tensorflow
+jupyter == 0.9.5
+
